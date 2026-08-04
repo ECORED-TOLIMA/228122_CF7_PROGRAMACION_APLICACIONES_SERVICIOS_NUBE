@@ -35,7 +35,7 @@
         LineaTiempoD.color-acento-botones.especial
           .row(numero="1" titulo="Nombre de la clase")
             .col-12.mb-4.mb-md-0
-              p.mb-0 identifica la entidad que se representa.
+              p.mb-0 Identifica la entidad que se representa.
           .row(numero="2" titulo="Atributos")
             .col-12.mb-4.mb-md-0
               p.mb-0 Almacenan la información correspondiente a la clase.

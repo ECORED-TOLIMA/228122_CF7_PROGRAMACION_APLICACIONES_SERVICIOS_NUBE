@@ -72,7 +72,7 @@
     .row.justify-content-center.mb-4
       .col.col-lg-10.col-12
         .cajon.cajon.C08.color-primario.p-4
-          p.mb-0(data-aos="fade-down") En el ejemplo anterior, la clase <b>Aprendiz</b> hereda los atributos <b>nombre y documento</b> definidos en la clase <b>Persona</b>, e incorpora el atributo <b>programa</b>, propio del contexto de formación. Gracias a la herencia, no es necesario volver a declarar los atributos heredados, lo que facilita la reutilización del código y mejora la organización de la aplicación.3
+          p.mb-0(data-aos="fade-down") En el ejemplo anterior, la clase <b>Aprendiz</b> hereda los atributos <b>nombre y documento</b> definidos en la clase <b>Persona</b>, e incorpora el atributo <b>programa</b>, propio del contexto de formación. Gracias a la herencia, no es necesario volver a declarar los atributos heredados, lo que facilita la reutilización del código y mejora la organización de la aplicación.
     p.mb-0(data-aos="fade-down") La aplicación de la herencia permite desarrollar <em>software</em> más organizado, reutilizar componentes existentes y facilitar la incorporación de nuevas funcionalidades sin modificar la estructura de las clases ya definidas.
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -84,7 +84,7 @@
       .col.col-lg-8.col-12.order-lg-2.order-2
         .cajon.cajon.C08.color-primario.p-4.mb-4
           p.mb-0(data-aos="fade-down") La herencia puede clasificarse según la forma en que una clase deriva sus características de otras clases. Los tipos más conocidos son la herencia simple y la herencia múltiple, cada uno con características y aplicaciones particulares.
-        p.mb-0(data-aos="fade-down") La herencia simple ocurre cuando una clase deriva directamente de una única clase base. Este modelo favorece una estructura clara y organizada, facilitando la reutilización de atributos y métodos sin incrementar la complejidad del diseño. Java implementa este tipo de herencia mediante la palabra reservada extends.
+        p.mb-0(data-aos="fade-down") La herencia simple ocurre cuando una clase deriva directamente de una única clase base. Este modelo favorece una estructura clara y organizada, facilitando la reutilización de atributos y métodos sin incrementar la complejidad del diseño. Java implementa este tipo de herencia mediante la palabra reservada <em>extends</em>.
     p.mb-4(data-aos="fade-down") A continuación, se presenta un ejemplo de herencia simple utilizando el lenguaje de programación Java:
     .row.justify-content-center.mb-4
       .col-lg-10.col-12

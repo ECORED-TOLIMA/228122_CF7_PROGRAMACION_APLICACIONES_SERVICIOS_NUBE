@@ -16,7 +16,7 @@
       separador
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.1 Características de la programación orientada a objetos
-      p.mb-4(data-aos="fade-down") A diferencia de la programación procedimental, que centra el desarrollo en funciones y procedimientos, la POO estructura el <em>software</em> alrededor de objetos que interactúan entre sí para cumplir un propósito específico. Este paradigma constituye una base para el desarrollo de aplicaciones modernas, ya que promueve soluciones modulares, escalables y mantenibles, características necesarias para la implementación de <em>software</em> en entornos de computación en la nube.
+      p.mb-4(data-aos="fade-down") La programación orientada a objetos se fundamenta en cuatro principios que orientan el diseño y desarrollo de aplicaciones organizadas, reutilizables y fáciles de mantener. Estos principios permiten representar entidades del mundo real mediante clases y objetos, favoreciendo la modularidad, la escalabilidad y la calidad del <em>software</em>.
       AcordionA.mb-0(tipo="a" clase-tarjeta="tarjeta tarjeta--C15" data-aos="zoom-in")
         .row.justify-content-center(titulo="a) Abstracción")
           .col-12.col-lg-10.order-lg-1.order-2
@@ -194,7 +194,7 @@
         .col.col-lg-8.col-12.order-lg-2.order-2
           p.mb-3(data-aos="fade-down") Los métodos representan las acciones o comportamientos que puede ejecutar un objeto. Mediante ellos es posible procesar información, modificar el estado de un objeto o interactuar con otros objetos dentro del sistema.
           .cajon.cajon.C02.color-secundario.p-4.mb-3
-            p.mb-0(data-aos="fade-down") Por ejemplo, una clase Aprendiz podría disponer de métodos como matricular(), actualizarDatos(), consultarEstado() o finalizarPrograma(), los cuales permiten realizar operaciones relacionadas con la información del aprendiz.
+            p.mb-0(data-aos="fade-down") Por ejemplo, una clase <b>Aprendiz</b> podría disponer de métodos como matricular(), actualizarDatos(), consultarEstado() o finalizarPrograma(), los cuales permiten realizar operaciones relacionadas con la información del aprendiz.
           p.mb-0(data-aos="fade-down") Los métodos también pueden recibir parámetros, devolver resultados o ejecutar procesos internos necesarios para el funcionamiento de la aplicación.
       p.mb-4(data-aos="fade-down") A continuación, se presenta un ejemplo simplificado de la estructura de una clase, en la que se identifican sus atributos y métodos:
       .row.justify-content-center.mb-0
@@ -380,7 +380,7 @@
                 figure
                   img(src='@/assets/curso/temas/t1/img32.svg', alt='Imagen decorativa')
               .col-lg-10.col-12
-                p.mb-0 Otra diferencia importante radica en el enfoque de consistencia. Las bases de datos relacionales priorizan la integridad de los datos mediante el cumplimiento de las propiedades ACID, lo que garantiza transacciones seguras. En contraste, muchas bases de datos NoSQL adoptan un enfoque basado en la disponibilidad y la tolerancia a fallos, sacrificando en algunos casos la consistencia inmediata.
+                p.mb-0 Como ejemplo, en una aplicación de gestión académica, el objeto <b>Aprendiz</b> puede solicitar al objeto <b>Curso</b> la información correspondiente a un programa de formación. Posteriormente, el objeto <b>Curso</b> consulta los datos disponibles y devuelve la información solicitada, permitiendo que el objeto <b>Aprendiz</b> continúe con el proceso de matrícula o consulta.
       p.mb-4(data-aos="fade-down") A continuación, se presenta un ejemplo simplificado de la interacción entre objetos dentro de una aplicación orientada a objetos.
       .row.justify-content-center.mb-4(data-aos="flip-up")
         .col-lg-10.col-12
