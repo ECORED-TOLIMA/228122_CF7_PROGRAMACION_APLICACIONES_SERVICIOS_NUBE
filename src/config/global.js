@@ -345,17 +345,16 @@ export default {
     },
     {
       referencia:
-        'Object Management Group. (2017). <i>Unified Modeling Language</i> (OMG UML). https://www.omg.org/spec/UML/2.5.1/PDF',
+        'Object Management Group. (2017). <i>Unified Modeling Language</i> (OMG UML).',
       link: 'https://www.omg.org/spec/UML/2.5.1/PDF',
     },
     {
-      referencia:
-        'Oracle. (s. f.). <i>Java documentation</i>. https://docs.oracle.com/en/java/',
+      referencia: 'Oracle. (s. f.).',
       link: 'https://docs.oracle.com/en/java/',
     },
     {
       referencia:
-        'Oracle. (s. f.). <i>Java Language and Virtual Machine Specifications</i>. https://docs.oracle.com/javase/specs/',
+        'Oracle. (s. f.). <i>Java Language and Virtual Machine Specifications</i>.',
       link: 'https://docs.oracle.com/javase/specs/',
     },
     {

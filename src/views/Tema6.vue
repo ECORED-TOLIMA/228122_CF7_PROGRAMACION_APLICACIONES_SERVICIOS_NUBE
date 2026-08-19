@@ -18,7 +18,7 @@
           .col-lg-10.col-12
             p.mb-0 El desarrollo de aplicaciones requiere un proceso organizado que inicia con el análisis del problema y el diseño de una solución lógica antes de su implementación en un lenguaje de programación. Una planificación adecuada de los algoritmos facilita la construcción de programas más claros, eficientes y acordes con los requerimientos establecidos.
         .cajon.cajon.C08.color-primario.px-4.py-3.mb-0
-          p.mb-0(data-aos="fade-down") Durante la implementación de una aplicación es común que se presenten errores relacionados con la sintaxis, la lógica o el funcionamiento del programa. Por esta razón, la depuración y las pruebas constituyen actividades fundamentales para identificar, analizar y corregir estas situaciones, garantizando que el <em>software</em> produzca los resultados esperados.
+          p.mb-0(data-aos="fade-down") Durante la implementación de una aplicación, es común que se presenten errores relacionados con la sintaxis, la lógica o el funcionamiento del programa. Por esta razón, la depuración y las pruebas constituyen actividades fundamentales para identificar, analizar y corregir estas situaciones, garantizando que el <em>software</em> produzca los resultados esperados.
     p.mb-0(data-aos="fade-down") La aplicación de estrategias de diseño, depuración y validación contribuye al desarrollo de programas más confiables, facilita su mantenimiento y fortalece la calidad de las soluciones de <em>software</em> implementadas.
     separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -142,7 +142,7 @@
             thead
               tr
                 th(data-aos="fade-down")(style= "width: 30%") Tipo de falla
-                th(data-aos="fade-down")(style= "width: 35%") CaracterísticasSobrecarga
+                th(data-aos="fade-down")(style= "width: 35%") Características
                 th(data-aos="fade-down")(style= "width: 35%") Ejemplo
             tbody
               tr
