@@ -147,11 +147,11 @@
             tbody
               tr
                 td(data-aos="fade-down")(style="background-color: #EEF1F7") Sintaxis
-                td(data-aos="fade-down")(style="background-color: #EEF1F7") Incumple las reglas del lenguaje de programación e impide la compilación o ejecución del programa.Misma clase
+                td(data-aos="fade-down")(style="background-color: #EEF1F7") Incumple las reglas del lenguaje de programación e impide la compilación o ejecución del programa.
                 td(data-aos="fade-down")(style="background-color: #EEF1F7") Olvidar un punto y coma (;), escribir incorrectamente una palabra reservada o no cerrar una llave (}).
               tr
                 td(data-aos="fade-down") Lógica
-                td(data-aos="fade-down") El programa se ejecuta, pero produce resultados incorrectos debido a un error en el algoritmo o en la implementación.Igual
+                td(data-aos="fade-down") El programa se ejecuta, pero produce resultados incorrectos debido a un error en el algoritmo o en la implementación.
                 td(data-aos="fade-down") Utilizar una condición equivocada en una estructura if o realizar un cálculo con una fórmula incorrecta.
     p(data-aos="fade-down") A continuación, se presentan ejemplos de fallas de sintaxis y de lógica en el lenguaje de programación Java.
     p.mb-4(data-aos="fade-down") Ejemplo de falla de sintaxis:
